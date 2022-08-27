@@ -6,7 +6,7 @@ namespace Laba__1_ООП
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Egor !");
         }
     }
 }
